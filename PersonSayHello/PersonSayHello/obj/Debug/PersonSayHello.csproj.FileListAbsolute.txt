@@ -1,0 +1,7 @@
+C:\Users\Daniel\Desktop\Github2.0\CSharp.Net\PersonSayHello\PersonSayHello\bin\Debug\PersonSayHello.exe.config
+C:\Users\Daniel\Desktop\Github2.0\CSharp.Net\PersonSayHello\PersonSayHello\bin\Debug\PersonSayHello.exe
+C:\Users\Daniel\Desktop\Github2.0\CSharp.Net\PersonSayHello\PersonSayHello\bin\Debug\PersonSayHello.pdb
+C:\Users\Daniel\Desktop\Github2.0\CSharp.Net\PersonSayHello\PersonSayHello\obj\Debug\PersonSayHello.csprojAssemblyReference.cache
+C:\Users\Daniel\Desktop\Github2.0\CSharp.Net\PersonSayHello\PersonSayHello\obj\Debug\PersonSayHello.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\Desktop\Github2.0\CSharp.Net\PersonSayHello\PersonSayHello\obj\Debug\PersonSayHello.exe
+C:\Users\Daniel\Desktop\Github2.0\CSharp.Net\PersonSayHello\PersonSayHello\obj\Debug\PersonSayHello.pdb
