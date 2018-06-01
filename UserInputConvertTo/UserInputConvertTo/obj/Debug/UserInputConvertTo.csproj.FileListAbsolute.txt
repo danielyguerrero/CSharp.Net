@@ -1,0 +1,7 @@
+C:\Users\Daniel\Documents\Coding Dojo_08_22_2017\Solo Learn\C# .Net\UserInputConvertTo\UserInputConvertTo\bin\Debug\UserInputConvertTo.exe.config
+C:\Users\Daniel\Documents\Coding Dojo_08_22_2017\Solo Learn\C# .Net\UserInputConvertTo\UserInputConvertTo\bin\Debug\UserInputConvertTo.exe
+C:\Users\Daniel\Documents\Coding Dojo_08_22_2017\Solo Learn\C# .Net\UserInputConvertTo\UserInputConvertTo\bin\Debug\UserInputConvertTo.pdb
+C:\Users\Daniel\Documents\Coding Dojo_08_22_2017\Solo Learn\C# .Net\UserInputConvertTo\UserInputConvertTo\obj\Debug\UserInputConvertTo.csprojAssemblyReference.cache
+C:\Users\Daniel\Documents\Coding Dojo_08_22_2017\Solo Learn\C# .Net\UserInputConvertTo\UserInputConvertTo\obj\Debug\UserInputConvertTo.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\Documents\Coding Dojo_08_22_2017\Solo Learn\C# .Net\UserInputConvertTo\UserInputConvertTo\obj\Debug\UserInputConvertTo.exe
+C:\Users\Daniel\Documents\Coding Dojo_08_22_2017\Solo Learn\C# .Net\UserInputConvertTo\UserInputConvertTo\obj\Debug\UserInputConvertTo.pdb
