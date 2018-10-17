@@ -1,0 +1,15 @@
+=====   Make a Dir  =====
+mkdir first_csharp
+cd first_csharp
+
+==== Build your two files (program.cs & project.json) =====
+dotnet new console
+
+
+======  This command must be run with every new project to install the base packages too!  ======
+dotnet restore
+
+
+======= run your program =======
+ dotnet run
+

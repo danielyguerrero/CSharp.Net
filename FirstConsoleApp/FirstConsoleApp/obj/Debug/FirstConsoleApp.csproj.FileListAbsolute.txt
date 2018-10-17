@@ -1,7 +1,0 @@
-C:\Users\Daniel\source\repos\FirstConsoleApp\FirstConsoleApp\bin\Debug\FirstConsoleApp.exe.config
-C:\Users\Daniel\source\repos\FirstConsoleApp\FirstConsoleApp\bin\Debug\FirstConsoleApp.exe
-C:\Users\Daniel\source\repos\FirstConsoleApp\FirstConsoleApp\bin\Debug\FirstConsoleApp.pdb
-C:\Users\Daniel\source\repos\FirstConsoleApp\FirstConsoleApp\obj\Debug\FirstConsoleApp.csprojAssemblyReference.cache
-C:\Users\Daniel\source\repos\FirstConsoleApp\FirstConsoleApp\obj\Debug\FirstConsoleApp.csproj.CoreCompileInputs.cache
-C:\Users\Daniel\source\repos\FirstConsoleApp\FirstConsoleApp\obj\Debug\FirstConsoleApp.exe
-C:\Users\Daniel\source\repos\FirstConsoleApp\FirstConsoleApp\obj\Debug\FirstConsoleApp.pdb
