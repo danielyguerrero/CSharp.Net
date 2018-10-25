@@ -35,18 +35,28 @@ namespace firstExercise
             // =====================   Task 3   ======================
 
 
-            for(int i = 1; i <= 100; i ++){
+            // for(int i = 1; i <= 100; i ++){
 
-                if(i % 3 == 0 && i % 5 == 0){
-                    Console.Write(i+ "=>FizzBuzz," + " ");
-                }
+            //     if(i % 3 == 0 && i % 5 == 0){
+            //         Console.Write(i+ "=>FizzBuzz," + " ");
+            //     }
 
-                if (i % 3 == 0){
-                    Console.Write(i+ "->Fizz," + " ");
-                }
-                if (i % 5 == 0){
-                    Console.Write(i+ "->Buzz,"+ " ");
-                }
+            //     if (i % 3 == 0){
+            //         Console.Write(i+ "->Fizz," + " ");
+            //     }
+            //     if (i % 5 == 0){
+            //         Console.Write(i+ "->Buzz,"+ " ");
+            //     }
+
+            // }
+
+
+            // ====================    For Loop    ===========================
+
+            for(int i = 0; i <= 10; i+=2){
+
+                Console.Write(i + " ");
+
 
             }
 
