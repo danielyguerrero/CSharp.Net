@@ -53,14 +53,37 @@ namespace firstExercise
 
             // ====================    For Loop    ===========================
 
-            for(int i = 0; i <= 10; i+=2){
+            // for(int i = 0; i <= 10; i+=2){
 
-                Console.Write(i + " ");
+            //     Console.Write(i + " ");
 
 
+            // }
+            // ====================    While Loop    ===========================
+            int num = 100;
+
+            while(num >= 70){
+
+                if (num >= 95){
+                    Console.WriteLine("Congratz, you made an A+ " + num);
+                }
+                if(num >= 90 && num < 95){
+                    Console.WriteLine("Hurray, you made an A "+ num);
+                }
+                if(num >= 85 && num < 90){
+                    Console.WriteLine("Great Job you made a B+ "+ num);
+                }
+                if(num >=80 && num < 85){
+                    Console.WriteLine("Good Work, you made a B "+ num);
+                }
+                if(num >= 75 && num < 80){
+                    Console.WriteLine("You scored an C+ "+ num);
+                }
+                if(num >= 70 && num < 75){
+                    Console.WriteLine("Awesome, you passed "+ num);
+                }
+                num -= 5;
             }
-
-
 
 
 
