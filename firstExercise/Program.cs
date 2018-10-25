@@ -1,5 +1,7 @@
 ﻿using System;
 
+using System.Collections.Generic;
+
 namespace firstExercise
 {
     class Program
@@ -86,16 +88,11 @@ namespace firstExercise
             // }
             // ====================    Random Value    ===========================
 
-            Random num = new Random();
+            // Random num = new Random();
 
-            for (int val = 1; val <= 10; val ++){
-                Console.WriteLine(num.Next(50,100));
-            }
-
-
-
-
-
+            // for (int val = 1; val <= 10; val ++){
+            //     Console.WriteLine(num.Next(50,100));
+            // }
 
 
 
