@@ -33,6 +33,14 @@ namespace CSList
             Console.WriteLine("=> "+ shows[i]);
         }
 
+        //===================    Inserting to a list   =========================
+
+        shows.Insert(2,"Rick and Morty");
+
+        Console.WriteLine("The T.V Shows I have watched are: ");
+        for(var i = 0; i < shows.Count; i++){
+            Console.WriteLine("* "+ shows[i]);
+        }
 
 
 
