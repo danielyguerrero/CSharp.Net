@@ -45,10 +45,19 @@ namespace CSList
         //===================    Removing from a list   =========================
 
         shows.Remove("How I Met Your Mother");
+
+
         for(var i = 0; i < shows.Count; i++){
             Console.WriteLine("--> "+ shows[i]);
         }
 
+        //===================    Removing from a list   =========================
+
+        Console.WriteLine("List of family-rated shows:");
+
+        foreach(string show in shows){
+            Console.WriteLine("# "+ show);
+        }
 
 
 
