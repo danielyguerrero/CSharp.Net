@@ -1,0 +1,50 @@
+static void DrawPyramid(int n)
+{
+  for (int i = 1; i <= n; i++)
+  {
+    for (int j = i; j <= n; j++)
+    {
+      Console.Write("##");      
+    }
+    for (int star = 1; star <= 2 * i - 1; star++)
+    {
+      Console.Write("*" + "^");
+    }
+    Console.WriteLine();
+  }
+}
+
+
+
+
+##########*^
+########*^*^*^
+######*^*^*^*^*^
+####*^*^*^*^*^*^*^
+##*^*^*^*^*^*^*^*^*^
+
+
+=====================================================================
+
+Firstly, a method is declared outside of the Main method which accepts 
+two parameters ("x" and "y") and returns the product of the two arguments given.
+
+Since the "out" keyword is used before the "x" parameter, which accepts an 
+interger value, the parameter will only return data.
+
+In the Main method, the "Test" method is called with only one parameter, which 
+is "out x" (The out keyword means that the variable "a" will be assigned the 
+value of "x" from the Test method.
+
+
+So, in other words:
+"int a" is now assigned the integer 6
+"int z = Test(out a);" is simplified to "int z = Test(6);" 
+
+// Since the parameter for y is not given, y will use the default 
+value given, which is 4.
+
+So in this line of code, "int z = Test(6, 4);", the interger variable "z" 
+wlll be assigned the product of x and y (6 and 4), which returns 24.
+
+Finally, the "Console.WriteLine" method will display the result of the sum of "a" and "z" (6 + 24), which is 30.
