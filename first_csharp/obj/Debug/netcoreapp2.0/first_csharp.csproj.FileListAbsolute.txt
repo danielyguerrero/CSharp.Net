@@ -1,0 +1,11 @@
+C:\Users\Danny\Desktop\Github2.0\CSharp.Net\first_csharp\bin\Debug\netcoreapp2.0\first_csharp.deps.json
+C:\Users\Danny\Desktop\Github2.0\CSharp.Net\first_csharp\bin\Debug\netcoreapp2.0\first_csharp.runtimeconfig.json
+C:\Users\Danny\Desktop\Github2.0\CSharp.Net\first_csharp\bin\Debug\netcoreapp2.0\first_csharp.runtimeconfig.dev.json
+C:\Users\Danny\Desktop\Github2.0\CSharp.Net\first_csharp\bin\Debug\netcoreapp2.0\first_csharp.dll
+C:\Users\Danny\Desktop\Github2.0\CSharp.Net\first_csharp\bin\Debug\netcoreapp2.0\first_csharp.pdb
+C:\Users\Danny\Desktop\Github2.0\CSharp.Net\first_csharp\obj\Debug\netcoreapp2.0\first_csharp.csprojResolveAssemblyReference.cache
+C:\Users\Danny\Desktop\Github2.0\CSharp.Net\first_csharp\obj\Debug\netcoreapp2.0\first_csharp.csproj.CoreCompileInputs.cache
+C:\Users\Danny\Desktop\Github2.0\CSharp.Net\first_csharp\obj\Debug\netcoreapp2.0\first_csharp.AssemblyInfoInputs.cache
+C:\Users\Danny\Desktop\Github2.0\CSharp.Net\first_csharp\obj\Debug\netcoreapp2.0\first_csharp.AssemblyInfo.cs
+C:\Users\Danny\Desktop\Github2.0\CSharp.Net\first_csharp\obj\Debug\netcoreapp2.0\first_csharp.dll
+C:\Users\Danny\Desktop\Github2.0\CSharp.Net\first_csharp\obj\Debug\netcoreapp2.0\first_csharp.pdb

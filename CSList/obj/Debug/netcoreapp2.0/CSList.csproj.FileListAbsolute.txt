@@ -1,0 +1,11 @@
+C:\Users\Danny\Desktop\Github2.0\CSharp.Net\CSList\bin\Debug\netcoreapp2.0\CSList.deps.json
+C:\Users\Danny\Desktop\Github2.0\CSharp.Net\CSList\bin\Debug\netcoreapp2.0\CSList.runtimeconfig.json
+C:\Users\Danny\Desktop\Github2.0\CSharp.Net\CSList\bin\Debug\netcoreapp2.0\CSList.runtimeconfig.dev.json
+C:\Users\Danny\Desktop\Github2.0\CSharp.Net\CSList\bin\Debug\netcoreapp2.0\CSList.dll
+C:\Users\Danny\Desktop\Github2.0\CSharp.Net\CSList\bin\Debug\netcoreapp2.0\CSList.pdb
+C:\Users\Danny\Desktop\Github2.0\CSharp.Net\CSList\obj\Debug\netcoreapp2.0\CSList.csproj.CoreCompileInputs.cache
+C:\Users\Danny\Desktop\Github2.0\CSharp.Net\CSList\obj\Debug\netcoreapp2.0\CSList.AssemblyInfoInputs.cache
+C:\Users\Danny\Desktop\Github2.0\CSharp.Net\CSList\obj\Debug\netcoreapp2.0\CSList.AssemblyInfo.cs
+C:\Users\Danny\Desktop\Github2.0\CSharp.Net\CSList\obj\Debug\netcoreapp2.0\CSList.dll
+C:\Users\Danny\Desktop\Github2.0\CSharp.Net\CSList\obj\Debug\netcoreapp2.0\CSList.pdb
+C:\Users\Danny\Desktop\Github2.0\CSharp.Net\CSList\obj\Debug\netcoreapp2.0\CSList.csprojResolveAssemblyReference.cache

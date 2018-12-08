@@ -1,7 +1,0 @@
-C:\Users\Daniel\Documents\Coding Dojo_08_22_2017\Solo Learn\C# .Net\BuildingPyramid\BuildingPyramid\bin\Debug\BuildingPyramid.exe.config
-C:\Users\Daniel\Documents\Coding Dojo_08_22_2017\Solo Learn\C# .Net\BuildingPyramid\BuildingPyramid\bin\Debug\BuildingPyramid.exe
-C:\Users\Daniel\Documents\Coding Dojo_08_22_2017\Solo Learn\C# .Net\BuildingPyramid\BuildingPyramid\bin\Debug\BuildingPyramid.pdb
-C:\Users\Daniel\Documents\Coding Dojo_08_22_2017\Solo Learn\C# .Net\BuildingPyramid\BuildingPyramid\obj\Debug\BuildingPyramid.csprojAssemblyReference.cache
-C:\Users\Daniel\Documents\Coding Dojo_08_22_2017\Solo Learn\C# .Net\BuildingPyramid\BuildingPyramid\obj\Debug\BuildingPyramid.csproj.CoreCompileInputs.cache
-C:\Users\Daniel\Documents\Coding Dojo_08_22_2017\Solo Learn\C# .Net\BuildingPyramid\BuildingPyramid\obj\Debug\BuildingPyramid.exe
-C:\Users\Daniel\Documents\Coding Dojo_08_22_2017\Solo Learn\C# .Net\BuildingPyramid\BuildingPyramid\obj\Debug\BuildingPyramid.pdb
